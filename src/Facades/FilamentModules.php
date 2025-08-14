@@ -1,16 +1,16 @@
 <?php
 
-namespace Eessoo\Modules\Facades;
+namespace Vuthyyours\Modules\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \Eessoo\Modules\Modules
+ * @see \Vuthyyours\Modules\Modules
  */
 class FilamentModules extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return \Eessoo\Modules\Modules::class;
+        return \Vuthyyours\Modules\Modules::class;
     }
 }

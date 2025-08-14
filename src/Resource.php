@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
 abstract class Resource extends \Filament\Resources\Resource
 {
-    use \Eessoo\Modules\Traits\CanAccessTrait;
+    use \Vuthyyours\Modules\Traits\CanAccessTrait;
 }

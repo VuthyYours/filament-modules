@@ -1,10 +1,10 @@
 <?php
 
-namespace Eessoo\Modules\Tests;
+namespace Vuthyyours\Modules\Tests;
 
 use BladeUI\Heroicons\BladeHeroiconsServiceProvider;
 use BladeUI\Icons\BladeIconsServiceProvider;
-use Eessoo\Modules\ModulesServiceProvider;
+use Vuthyyours\Modules\ModulesServiceProvider;
 use Filament\Actions\ActionsServiceProvider;
 use Filament\FilamentServiceProvider;
 use Filament\Forms\FormsServiceProvider;
@@ -29,7 +29,7 @@ class TestCase extends Orchestra
         parent::setUp();
 
         Factory::guessFactoryNamesUsing(
-            fn (string $modelName) => 'Eessoo\\Modules\\Database\\Factories\\' . class_basename($modelName) . 'Factory'
+            fn (string $modelName) => 'Vuthyyours\\Modules\\Database\\Factories\\' . class_basename($modelName) . 'Factory'
         );
     }
 

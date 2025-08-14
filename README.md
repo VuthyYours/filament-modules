@@ -93,7 +93,7 @@ In order to achieve this, you need to register the `ModulesPlugin` in your panel
 ```php
 // e.g. in App\Providers\Filament\AdminPanelProvider.php
  
-use Eessoo\Modules\ModulesPlugin;
+use Vuthyyours\Modules\ModulesPlugin;
 public function panel(Panel $panel): Panel
 {
     return $panel
@@ -197,27 +197,27 @@ php artisan module:make:filament-theme
 ### Follow the instructions to protect your resources and pages if your module is not active.
 
 ```php
-use Eessoo\Modules\Resource;
+use Vuthyyours\Modules\Resource;
 ```
 use the above resource class instead of `use Filament/Resources/Resource;` into your resource class file to protect your resources.
 
 ```php
-use Eessoo\Modules\Page;
+use Vuthyyours\Modules\Page;
 ```
 use the above page class instead of `use Filament/Pages/Page;` into your page class file to protect your pages.
 
 ```php
-use Eessoo\Modules\TableWidget;
+use Vuthyyours\Modules\TableWidget;
 ```
 use the above page class instead of `use Filament/Pages/TableWidget;` into your widget class file to protect your TableWidget.
 
 ```php
-use Eessoo\Modules\ChartWidget;
+use Vuthyyours\Modules\ChartWidget;
 ```
 use the above page class instead of `use Filament/Pages/ChartWidget;` into your widget class file to protect your ChartWidget.
 
 ```php
-use Eessoo\Modules\StatsOverviewWidget;
+use Vuthyyours\Modules\StatsOverviewWidget;
 ```
 use the above page class instead of `use Filament/Pages/StatsOverviewWidget;` into your widget class file to protect your StatsOverviewWidget.
 

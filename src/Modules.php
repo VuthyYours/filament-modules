@@ -1,6 +1,6 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Traits\Macroable;

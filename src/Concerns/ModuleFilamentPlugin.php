@@ -1,6 +1,6 @@
 <?php
 
-namespace Eessoo\Modules\Concerns;
+namespace Vuthyyours\Modules\Concerns;
 
 use Filament\Panel;
 use Nwidart\Modules\Facades\Module;

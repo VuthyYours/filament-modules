@@ -1,8 +1,8 @@
 {
-  "name": "eessoo/modules",
+  "name": "vuthyyours/modules",
   "description": "Organize your Filament Code into modules using nwidart/laravel-modules",
   "keywords": [
-    "eessoo",
+    "vuthyyours",
     "laravel",
     "FilamentModules",
     "filament"
@@ -38,13 +38,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Eessoo\\Modules\\": "src/",
-      "Eessoo\\Modules\\Database\\Factories\\": "database/factories/"
+      "Vuthyyours\\Modules\\": "src/",
+      "Vuthyyours\\Modules\\Database\\Factories\\": "database/factories/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Eessoo\\Modules\\Tests\\": "tests/"
+      "Vuthyyours\\Modules\\Tests\\": "tests/"
     }
   },
   "scripts": {
@@ -81,7 +81,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Eessoo\\Modules\\ModulesServiceProvider"
+        "Vuthyyours\\Modules\\ModulesServiceProvider"
       ],
       "aliases": {
         "FilamentModules": "FilamentModules"

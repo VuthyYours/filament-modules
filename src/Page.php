@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
 abstract class Page extends \Filament\Pages\Page
 {
-    use \Eessoo\Modules\Traits\CanAccessTrait;
+    use \Vuthyyours\Modules\Traits\CanAccessTrait;
 }

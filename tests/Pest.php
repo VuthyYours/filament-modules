@@ -1,5 +1,5 @@
 <?php
 
-use Eessoo\Modules\Tests\TestCase;
+use Vuthyyours\Modules\Tests\TestCase;
 
 uses(TestCase::class)->in(__DIR__);

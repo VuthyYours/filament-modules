@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules\Commands;
+namespace Vuthyyours\Modules\Commands;
 
-use Eessoo\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Facades\FilamentModules;
 use Filament\Clusters\Cluster;
 use Filament\Commands\MakePageCommand;
 use Filament\Facades\Filament;

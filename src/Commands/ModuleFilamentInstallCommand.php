@@ -1,6 +1,6 @@
 <?php
 
-namespace Eessoo\Modules\Commands;
+namespace Vuthyyours\Modules\Commands;
 
 use Filament\Support\Commands\Concerns\CanManipulateFiles;
 use Illuminate\Console\Command;

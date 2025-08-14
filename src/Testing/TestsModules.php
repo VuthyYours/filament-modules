@@ -1,6 +1,6 @@
 <?php
 
-namespace Eessoo\Modules\Testing;
+namespace Vuthyyours\Modules\Testing;
 
 use Livewire\Features\SupportTesting\Testable;
 

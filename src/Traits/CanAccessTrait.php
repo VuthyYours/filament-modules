@@ -1,6 +1,6 @@
 <?php
 
-namespace Eessoo\Modules\Traits;
+namespace Vuthyyours\Modules\Traits;
 
 trait CanAccessTrait
 {

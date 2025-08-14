@@ -2,7 +2,7 @@
 
 namespace {{ namespace }};
 
-use Eessoo\Modules\Concerns\ModuleFilamentPlugin;
+use Vuthyyours\Modules\Concerns\ModuleFilamentPlugin;
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 

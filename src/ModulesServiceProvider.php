@@ -1,9 +1,9 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
-use Eessoo\Modules\Facades\FilamentModules;
-use Eessoo\Modules\Testing\TestsModules;
+use Vuthyyours\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Testing\TestsModules;
 use Filament\Support\Assets\Asset;
 use Filament\Support\Facades\FilamentAsset;
 use Filament\Support\Facades\FilamentIcon;
@@ -108,7 +108,7 @@ class ModulesServiceProvider extends PackageServiceProvider
 
     protected function getAssetPackageName(): ?string
     {
-        return 'eessoo/modules';
+        return 'vuthyyours/modules';
     }
 
     /**

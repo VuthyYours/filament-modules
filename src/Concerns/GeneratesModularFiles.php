@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules\Concerns;
+namespace Vuthyyours\Modules\Concerns;
 
-use Eessoo\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Facades\FilamentModules;
 use Illuminate\Support\Str;
 use Nwidart\Modules\Module;
 use Symfony\Component\Console\Input\InputArgument;

@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules\Concerns;
+namespace Vuthyyours\Modules\Concerns;
 
-use Eessoo\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Facades\FilamentModules;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 use Illuminate\Filesystem\Filesystem;
 use Nwidart\Modules\Module;

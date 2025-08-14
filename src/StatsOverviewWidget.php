@@ -1,10 +1,10 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
 abstract class StatsOverviewWidget extends \Filament\Widgets\StatsOverviewWidget
 {
-    use \Eessoo\Modules\Traits\CanAccessTrait;
+    use \Vuthyyours\Modules\Traits\CanAccessTrait;
 
     public static function canView(): bool
     {

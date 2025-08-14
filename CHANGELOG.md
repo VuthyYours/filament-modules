@@ -36,7 +36,7 @@ All notable changes to `modules` will be documented in this file.
 
 * Bump dependabot/fetch-metadata from 1.6.0 to 2.1.0 by @dependabot in https://github.com/savannabits/filament-modules/pull/104
 * Bump dependabot/fetch-metadata from 2.1.0 to 2.2.0 by @dependabot in https://github.com/savannabits/filament-modules/pull/108
-* changing from Filament\Plugin to Eessoo\Modules in ReadMe.md by @dedanirungu in https://github.com/savannabits/filament-modules/pull/110
+* changing from Filament\Plugin to Vuthyyours\Modules in ReadMe.md by @dedanirungu in https://github.com/savannabits/filament-modules/pull/110
 * Bump dependabot/fetch-metadata from 2.2.0 to 2.3.0 by @dependabot in https://github.com/savannabits/filament-modules/pull/119
 * Bump aglipanci/laravel-pint-action from 2.4 to 2.5 by @dependabot in https://github.com/savannabits/filament-modules/pull/120
 * [style] fix install command on readme file by @alissn in https://github.com/savannabits/filament-modules/pull/112

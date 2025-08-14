@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules\Commands;
+namespace Vuthyyours\Modules\Commands;
 
-use Eessoo\Modules\Concerns\GeneratesModularFiles;
+use Vuthyyours\Modules\Concerns\GeneratesModularFiles;
 use Illuminate\Console\GeneratorCommand;
 
 class ModuleMakeFilamentPluginCommand extends GeneratorCommand

@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
-use Eessoo\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Facades\FilamentModules;
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 

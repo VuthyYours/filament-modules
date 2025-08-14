@@ -1,10 +1,10 @@
 <?php
 
-namespace Eessoo\Modules;
+namespace Vuthyyours\Modules;
 
 abstract class ChartWidget extends \Filament\Widgets\ChartWidget
 {
-    use \Eessoo\Modules\Traits\CanAccessTrait;
+    use \Vuthyyours\Modules\Traits\CanAccessTrait;
 
     public static function canView(): bool
     {

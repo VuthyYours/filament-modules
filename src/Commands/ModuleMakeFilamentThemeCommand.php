@@ -1,8 +1,8 @@
 <?php
 
-namespace Eessoo\Modules\Commands;
+namespace Vuthyyours\Modules\Commands;
 
-use Eessoo\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Facades\FilamentModules;
 use Filament\Commands\MakeThemeCommand;
 use Filament\Panel;
 use Nwidart\Modules\Module;
