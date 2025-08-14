@@ -2,10 +2,10 @@
 
 namespace Vuthyyours\Modules\Commands;
 
-use Vuthyyours\Modules\Facades\FilamentModules;
 use Filament\Commands\MakeThemeCommand;
 use Filament\Panel;
 use Nwidart\Modules\Module;
+use Vuthyyours\Modules\Facades\FilamentModules;
 
 use function Laravel\Prompts\text;
 

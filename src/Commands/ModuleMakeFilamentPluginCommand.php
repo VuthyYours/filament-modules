@@ -2,8 +2,8 @@
 
 namespace Vuthyyours\Modules\Commands;
 
-use Vuthyyours\Modules\Concerns\GeneratesModularFiles;
 use Illuminate\Console\GeneratorCommand;
+use Vuthyyours\Modules\Concerns\GeneratesModularFiles;
 
 class ModuleMakeFilamentPluginCommand extends GeneratorCommand
 {

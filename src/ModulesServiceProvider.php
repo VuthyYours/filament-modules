@@ -2,8 +2,6 @@
 
 namespace Vuthyyours\Modules;
 
-use Vuthyyours\Modules\Facades\FilamentModules;
-use Vuthyyours\Modules\Testing\TestsModules;
 use Filament\Support\Assets\Asset;
 use Filament\Support\Facades\FilamentAsset;
 use Filament\Support\Facades\FilamentIcon;
@@ -13,6 +11,8 @@ use Nwidart\Modules\Module;
 use Spatie\LaravelPackageTools\Commands\InstallCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
+use Vuthyyours\Modules\Facades\FilamentModules;
+use Vuthyyours\Modules\Testing\TestsModules;
 
 class ModulesServiceProvider extends PackageServiceProvider
 {

@@ -2,11 +2,11 @@
 
 namespace Vuthyyours\Modules\Concerns;
 
-use Vuthyyours\Modules\Facades\FilamentModules;
 use Illuminate\Support\Str;
 use Nwidart\Modules\Module;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Finder\Finder;
+use Vuthyyours\Modules\Facades\FilamentModules;
 
 trait GeneratesModularFiles
 {

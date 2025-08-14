@@ -2,9 +2,9 @@
 
 namespace Vuthyyours\Modules;
 
-use Vuthyyours\Modules\Facades\FilamentModules;
 use Filament\Contracts\Plugin;
 use Filament\Panel;
+use Vuthyyours\Modules\Facades\FilamentModules;
 
 class ModulesPlugin implements Plugin
 {

@@ -2,12 +2,12 @@
 
 namespace Vuthyyours\Modules\Concerns;
 
-use Vuthyyours\Modules\Facades\FilamentModules;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
 use Illuminate\Filesystem\Filesystem;
 use Nwidart\Modules\Module;
 use Psr\Container\ContainerExceptionInterface;
 use Psr\Container\NotFoundExceptionInterface;
+use Vuthyyours\Modules\Facades\FilamentModules;
 
 use function Laravel\Prompts\confirm;
 
